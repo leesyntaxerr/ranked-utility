@@ -27,7 +27,7 @@ A comprehensive Discord bot designed to enhance the Ranked Bedwars community wit
 - Server statistics and logging
 - Activity tracking
 
-### 🏓 PUGS/PUPS System
+### 🏓 PUGS/PUPS/PREMIUM System
 - Player ranking and statistics
 - Matchmaking and team management
 - Voting system for player promotions
@@ -37,8 +37,8 @@ A comprehensive Discord bot designed to enhance the Ranked Bedwars community wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ranked-bedwars-bot.git
-   cd ranked-bedwars-bot
+   git clone https://github.com/leesyntaxerr/ranked-utility/.git
+   cd ranked-utility
    ```
 
 2. **Install dependencies**
@@ -123,11 +123,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📝 Credits
 
-- Developed by [Your Name]
-- Special thanks to the Ranked Bedwars community
+- Developed by Lee
+- Special thanks to the Zyrox Ranked Bedwars community
 
-## 🔗 Links
-
-- [Invite the Bot](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands)
-- [Support Server](https://discord.gg/YOUR_INVITE_LINK)
-- [GitHub Repository](https://github.com/yourusername/ranked-bedwars-bot)
