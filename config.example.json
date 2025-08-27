@@ -1,0 +1,50 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_BOT_CLIENT_ID",
+  "guildId": "YOUR_SERVER_ID",
+  "ticket": {
+    "categories": [
+      {
+        "id": "general",
+        "label": "General",
+        "description": "General inquiries and questions",
+        "emoji": "❓",
+        "staffRoles": ["ROLE_ID_1", "ROLE_ID_2"]
+      },
+      {
+        "id": "scoring",
+        "label": "Scoring",
+        "description": "Score-related inquiries",
+        "emoji": "📊",
+        "staffRoles": ["ROLE_ID_1", "ROLE_ID_2"]
+      },
+      {
+        "id": "registration",
+        "label": "Registration",
+        "description": "Account registration issues",
+        "emoji": "📝",
+        "staffRoles": ["ROLE_ID_1", "ROLE_ID_2"]
+      },
+      {
+        "id": "appeals",
+        "label": "Appeals",
+        "description": "Ban or mute appeals",
+        "emoji": "⚖️",
+        "staffRoles": ["ROLE_ID_1"]
+      },
+      {
+        "id": "store",
+        "label": "Store",
+        "description": "Store-related inquiries",
+        "emoji": "🛍️",
+        "staffRoles": ["ROLE_ID_1"]
+      }
+    ],
+    "ticketCategoryId": "TICKET_CATEGORY_ID",
+    "logChannel": "ticket-logs",
+    "archiveCategory": "ticket-archive",
+    "inactiveTimeout": 172800000,
+    "maxTickets": 3,
+    "globalStaffRoles": ["ROLE_ID_1", "ROLE_ID_2"]
+  }
+}

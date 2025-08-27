@@ -1,0 +1,70 @@
+{
+  "tickets": [
+    {
+      "channelId": "1395784381985067060",
+      "userId": "1348768898412974112",
+      "category": "appeals",
+      "claimedBy": null,
+      "status": "open",
+      "createdAt": 1752851328063,
+      "lastActivity": 1752851328063
+    },
+    {
+      "channelId": "1395813602140622858",
+      "userId": "930171299781832756",
+      "category": "scoring",
+      "claimedBy": null,
+      "status": "open",
+      "createdAt": 1752858295943,
+      "lastActivity": 1752858295943
+    },
+    {
+      "channelId": "1395831660343197867",
+      "userId": "1015524543852457985",
+      "category": "general",
+      "claimedBy": null,
+      "status": "open",
+      "createdAt": 1752862601260,
+      "lastActivity": 1752862601260
+    },
+    {
+      "channelId": "1395836419645243394",
+      "userId": "566639319096229903",
+      "category": "general",
+      "claimedBy": "749217148756557836",
+      "status": "claimed",
+      "createdAt": 1752863736025,
+      "lastActivity": 1752866233836
+    },
+    {
+      "channelId": "1395852077854363698",
+      "userId": "1355249341622911098",
+      "category": "general",
+      "claimedBy": null,
+      "status": "open",
+      "createdAt": 1752867469178,
+      "lastActivity": 1752867469178
+    },
+    {
+      "channelId": "1395876854870573137",
+      "userId": "585019061193146368",
+      "category": "appeals",
+      "claimedBy": null,
+      "status": "open",
+      "createdAt": 1752873376418,
+      "lastActivity": 1752873376418
+    },
+    {
+      "channelId": "1396617221987369050",
+      "userId": "929278496977592342",
+      "category": "appeals",
+      "claimedBy": "929278496977592342",
+      "status": "claimed",
+      "createdAt": 1753049893578,
+      "lastActivity": 1753049900715,
+      "staffRoles": [
+        "1378827154782945382"
+      ]
+    }
+  ]
+}

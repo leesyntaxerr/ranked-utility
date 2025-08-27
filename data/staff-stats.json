@@ -1,0 +1,34 @@
+{
+  "929278496977592342": {
+    "claimed": 1,
+    "totalResponseMs": 7138,
+    "ratings": {
+      "total": 25,
+      "count": 5
+    }
+  },
+  "1094550008499535892": {
+    "claimed": 0,
+    "totalResponseMs": 0,
+    "ratings": {
+      "total": 0,
+      "count": 0
+    }
+  },
+  "749217148756557836": {
+    "claimed": 0,
+    "totalResponseMs": 0,
+    "ratings": {
+      "total": 0,
+      "count": 0
+    }
+  },
+  "1018577553583263804": {
+    "claimed": 0,
+    "totalResponseMs": 0,
+    "ratings": {
+      "total": 0,
+      "count": 0
+    }
+  }
+}

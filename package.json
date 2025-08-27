@@ -1,0 +1,16 @@
+{
+  "name": "zyrox-utilities-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for the Ranked Bedwars server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.83",
+    "discord-html-transcripts": "^3.1.5",
+    "discord.js": "^14.19.3"
+  }
+}
